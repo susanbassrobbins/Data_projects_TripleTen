@@ -21,6 +21,13 @@ This repository is a portfolio of data science projects completed during my trai
 
 ---
 
+### 🔹 [Software Development Tools](https://github.com/susanbassrobbins/susan-sprint-4)
+**Objective:** Created a web app to analyze the data of used car sales.
+**Skills Used:** streamlit, pandas, plotly.express, Render
+**Outcome:** A working web application for price analysis of used car sales data.
+
+---
+
 ## 🛠️ Tools & Technologies
 
 - **Languages:** Python  
